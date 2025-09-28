@@ -1,3 +1,3 @@
 # apnacollege
 This is my first repo
-Author: Pinkitiii
+Author: Pinkitiii  CHamar
